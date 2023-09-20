@@ -1,6 +1,0 @@
-#include "shell.h"
-
-void display_prompt(void) {
-    print_win("team_shell$");
-
-}
